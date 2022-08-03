@@ -1,0 +1,13 @@
+version: '3'
+
+
+
+services:
+  etl:
+    container_name: etl_service
+    image: analytic-eng-challenge2/etl:latest
+    command: bash -c "python test_W_Extract.py && python test_BigQuery.py && python Main.py"
+
+    build: 
+      context: ./etl
+

@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "bol-assignment-357814",
+  "private_key_id": "178d83a5d04ca541faec19adb6a7d986de713101",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCTScBLEzKfsYik\n2idSTk2A91brgAWgCClxHyTsrJiytIO1OUbm+d4B8okYWwUMpgqWMzs2OkWR+Inb\n9yr/GvsbKvH/hWqjYOPOWystddpJvL1vlDb2Y3tPBpYiRVxv1T1OOiz4DO4JsVJl\n64n6w3Pzf7t9bxch32kTuZj89XtoYmfJk+hA+lrdp/4O/He8mvlTptXuIwzuCNLE\nxcu2u7fsJ/X48/gbIJ3i2b174mSvrSHxqCLar8dlsnIhBwR81/D9S2m+rYH78vPb\nzfuEMS4ibCvmWN5jW5rGpNevx8hPtOWordI6U3A/pzh/wC55/DlvXkQ0fYbi3Frs\n7GB/6HgXAgMBAAECggEANQZ2LhEJRqi5ku/e/CioimeBaWM7ozONB+a4emRgzOVk\nDVhDiGAoZvcUGCqclMMqSIzFIm60ISsjJofDePgTsuIxIVa833jASshTsRgesDE8\n2fC4INgLypWKc2gZMUHJwmH7UooFIIQwL/UuRZMcKWuw6iWWZGF0CN/mjhsqhJds\nx2lNpbgXrSoaYaCAqSsuPXTcjxpmaExoV/8tHRURF4Ref9bnJvQWiE2+Jax1lx1a\nW4CHkIK47loGKELJ9qMaQklIq/2wKsk1E/CiocozaC4pvzv6gP9zg/q4l4Zw/6Ch\nPPDOthHPrJKuqe1GbH3EpUvE+4yWUhljykHJmwoIEQKBgQDOUlX5kufSC6isGuxk\nfhgTmmxeDfEXqVyw43q+OrRecehCj5Q1mUAoaLsYN3kZYyBv13CMDNwWXvIKcmKk\nv28vkx88NSaq6Trwb4QqJIuUOZKMoJjmWuYAtaE73hTgS+XWy4MayIX+0/qV66FD\nqEuiGJFbe7OeAA7tWyVx/bcU5QKBgQC2wJanZ5ebqhIpOX6dMojOaQ4XOPCDz5Fp\ngkAgFDY+BSi92OYpWOSWaf5JC/Y/FhfNHDQ2xLAb3h414Gmg5AvNh7vH7AVlNK/P\n5MtBNomHkY3NOAQ4Nls1YfRCoLAlCSayXBIMBfenNjjqOhCMOr1RJfhOkcEZypDz\nOeqm7ntlSwKBgE+zxNytoHom4NjjabCEeX6RKA3JavpOBa2bot37xZO6gxO7bXCr\nK/qwQp5fR5vEDFLIMgUYLqlBslTQzUSBY01Ik0dp7O8XPBqHqdGx3m27M965Z3eN\nY86gW5HJ/9yJ1Vb9tT7SedjwQJxLszd0uwr6XKSvi7qcoSeWD0gSz/f1AoGBAI82\nsVkS505Hot/HfJ934JnQ3gf4yRKicRO7zMDW1gMYS+sqtIOmc8wj1/AqfZjGmXRV\nK93XmSLdl9Mkv+Ijk9RHEDMFlNzQww4p/9ZlBLXGrNcrlLLwdd2Jm78y6Za8ayTO\n3h2p93+EEGoNgrZBueaD2OjJdAfgJGNW+bpDnVOtAoGAHw+DeLo5SvP6gjLWtjxw\nqk4DS3xxd60gYiCmfZVYYjjFJssiA9UxaZEU0yU37zHyANL+aIpek5x/bpFBFXSa\nZXDg5GYnvQRSYYzRn7KPwBIM94xMoer3gokHOJfTaYQ2lE9+vjd3yOT2Z8F7PGyR\nAWIttblk2FzJHzU+wXWc0UY=\n-----END PRIVATE KEY-----\n",
+  "client_email": "bol-servacc@bol-assignment-357814.iam.gserviceaccount.com",
+  "client_id": "117039407855758814629",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bol-servacc%40bol-assignment-357814.iam.gserviceaccount.com"
+}
